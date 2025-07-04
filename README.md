@@ -37,7 +37,7 @@ const hafis = {
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/fixxyinhere/fixxyinhere/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/fixxyinhere/fixxyinhere/output/snake.svg)
   
   <br/>
   
@@ -97,21 +97,90 @@ const hafis = {
 
 <div align="center">
 
-<a href="https://github.com/fixxyinhere/cleanin-apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fixxyinhere&repo=cleanin-apps&theme=tokyonight&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D" />
-</a>
+### 🚀 My Project Showcase
 
-<a href="https://github.com/fixxyinhere/campus-event-website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fixxyinhere&repo=campus-event-website&theme=tokyonight&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D" />
-</a>
+<table>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/fixxyinhere/simak-bapenda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fixxyinhere&repo=simak-bapenda&theme=tokyonight&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D" />
-</a>
+**🧽 CleanIn Apps**
+> Web-based laundry management system with order tracking and AI-powered notifications
 
-<a href="https://github.com/fixxyinhere/internship-registration-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fixxyinhere&repo=internship-registration-system&theme=tokyonight&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&border_color=30363D" />
-</a>
+🛠️ **Tech Stack:**
+- PHP & Laravel
+- MySQL Database  
+- Tailwind CSS
+- OpenAI Integration
+
+🌟 **Features:**
+- Order Management
+- Real-time Tracking
+- Smart Notifications
+- Customer Portal
+
+</td>
+<td width="50%">
+
+**📅 Campus Event Platform**
+> Complete event management system for university events with online registration
+
+🛠️ **Tech Stack:**
+- PHP & Laravel
+- MySQL Database
+- Tailwind CSS
+- Claude AI Integration
+
+🌟 **Features:**
+- Event Creation
+- Online Registration
+- Admin Dashboard
+- Email Notifications
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**👨‍💼 SIMAK BAPENDA**
+> Integrated PKL management system for Pekanbaru City Regional Revenue Agency
+
+🛠️ **Tech Stack:**
+- PHP & Laravel
+- MySQL Database
+- Tailwind CSS
+- Cursor AI
+
+🌟 **Features:**
+- Participant Management
+- Progress Tracking
+- Evaluation System
+- Reporting Dashboard
+
+</td>
+<td width="50%">
+
+**📝 Internship Registration System**
+> Online registration platform for internship candidates at government agencies
+
+🛠️ **Tech Stack:**
+- PHP & Laravel
+- MySQL Database
+- Tailwind CSS
+- DeepSeek AI
+
+🌟 **Features:**
+- Online Registration
+- Document Upload
+- Status Tracking
+- Admin Panel
+
+</td>
+</tr>
+</table>
+
+### 💡 Want to see more projects? Check out my repositories below! 👇
+
+[![Repos](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fixxyinhere?tab=repositories)
 
 </div>
 
@@ -254,4 +323,4 @@ Future Additions:
 - Real-time coding stats
 - Dynamic project showcase
 - Personalized README based on visitor
--->/.
+-->
