@@ -37,7 +37,7 @@ const hafis = {
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/fixxyinhere/fixxyinhere/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/fixxyinhere/fixxyinhere/output/github-contribution-grid-snake.svg)
   
   <br/>
   
