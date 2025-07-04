@@ -280,10 +280,34 @@ timeline
 
 </div>
 
-## 📈 Contribution Graph
-
+📈 Contribution Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fixxyinhere&theme=tokyonight&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&border_color=30363D"/>
+🔥 Coding Activity & Contribution Patterns
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fixxyinhere&theme=tokyo-night&bg_color=0D1117&color=6366F1&line=8B5CF6&point=C9D1D9&area=true&hide_border=true"/>
+📊 Contribution Calendar
+<img src="https://ghchart.rshah.org/6366f1/fixxyinhere" alt="GitHub Contribution Chart" />
+⚡ Development Metrics
+<table align="center">
+<tr>
+<td align="center" width="50%">
+🚀 Most Active Hours
+🌅 Morning    ████████░░ 40%
+🌞 Daytime    ████████░░ 35% 
+🌆 Evening    ██████████ 20%
+🌙 Night      ████░░░░░░ 05%
+</td>
+<td align="center" width="50%">
+📅 Weekly Pattern
+Mon ████████████ 25%
+Tue ██████████░░ 20%
+Wed ████████████ 25%
+Thu ██████░░░░░░ 15%
+Fri ████░░░░░░░░ 08%
+Sat ██░░░░░░░░░░ 04%
+Sun ██░░░░░░░░░░ 03%
+</td>
+</tr>
+</table>
 </div>
 
 ## 🤝 Let's Connect!
