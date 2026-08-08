@@ -4,7 +4,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&height=80&lines=Web+Developer+%7C+Code+Enthusiast;PHP+%26+Laravel+Specialist;Building+Digital+Solutions;Always+Learning+%26+Growing)](https://git.io/typing-svg)
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Space&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%7C%20Code%20Craftsman%20%7C%20Digital%20Creator&descAlignY=55&descAlign=62"/>
+  <img src="assets/banner-hero.svg" alt="M. Hafis — Web Developer"/>
   
 </div>
 
