@@ -337,8 +337,6 @@ Sun ██░░░░░░░░░░ 03%
 
 ### 🎨 "Code is poetry written in logic"
 
-![Visitor Count](https://profile-counter.glitch.me/fixxyinhere/count.svg)
-
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
